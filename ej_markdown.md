@@ -41,16 +41,26 @@ Asi se puede crear una lista:
 2. Forma 2
 3. Forma 2
 
-Crea una lista con puntos a diferentes niveles
+Asi se muestra codigo:
+```
+#include <stdio.h>
 
-Crea una lista con nÃºmeros
+int main() {
+    printf("Hola, Natalia\n");
+    return 0;
+}
+```
 
-Crea una lista con nÃºmeros a diferentes niveles
+Asi tambien puede mostrarse:
+`print("Hola, Mundo!")`
 
-Crea un texto con visualizaciÃ³n de cÃ³digo
+Asi se muestra una tabla:
 
-Crea un bloque completo de cÃ³digo de mÃ¡s de una lÃ­nea
+| Lenguaje | Nivel    | Experiencia |
+|----------|----------|-------------|
+| C        | Avanzado | ⭐⭐⭐⭐☆      |
+| Python   | Intermedio | ⭐⭐⭐☆☆   |
+| VHDL     | Intermedio | ⭐⭐⭐☆☆   |
 
-Crea una tabla
 
-AÃ±ade HTML
+La sintaxis HTML es valido para Markdown
