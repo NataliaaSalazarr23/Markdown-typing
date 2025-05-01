@@ -63,4 +63,4 @@ Asi se muestra una tabla:
 | VHDL     | Intermedio | ⭐⭐⭐☆☆   |
 
 
-La sintaxis HTML es valido para Markdown
+La sintaxis HTML es valida para Markdown
